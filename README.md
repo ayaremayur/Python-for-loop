@@ -8,4 +8,4 @@ for I in range(given_range) :
 #if number is divided by 2 then it's even
    if i℅2==0
    #if above condition is true print the number
-      print(I) 
+      print(i) 
